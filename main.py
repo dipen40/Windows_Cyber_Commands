@@ -66,6 +66,7 @@ while True:
             os.system("sfc /scannow")
 
         elif ui == 404:
+            BRIDGE()
             break
 
         elif ui == 999:
