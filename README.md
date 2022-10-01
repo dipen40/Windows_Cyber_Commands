@@ -13,6 +13,7 @@
 - Show All Open Connections ( netstat -an )
 - Get detailed TCP/IP info ( ipconfig/all ) 
 - Windows Auto-Repair Tool ( sfc /scannow )
+- shows the MAC address (getmac)
 
 
 > You can add more function if you want, everything is avaialble there
