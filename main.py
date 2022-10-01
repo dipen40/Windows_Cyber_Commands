@@ -64,6 +64,10 @@ while True:
         elif ui == 10:
             print("Repairing...")
             os.system("sfc /scannow")
+            
+        elif ui == 11:
+            print("Find the MAC address of your network interfaces...")
+            os.system("getmac")
 
         elif ui == 404:
             BRIDGE()
